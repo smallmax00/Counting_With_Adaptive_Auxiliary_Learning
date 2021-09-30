@@ -1,6 +1,6 @@
 # Counting_With_Adaptive_Auxiliary
 
--------Object Counting with Adaptive Auxiliary tasks--------
+-------Object Counting with Adaptive Auxiliary Tasks--------
 ------------------------------------------------------------
 
 **SHA**
