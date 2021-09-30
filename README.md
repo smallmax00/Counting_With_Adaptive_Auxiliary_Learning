@@ -13,5 +13,5 @@
 
 -------------------------------------------------------------
 
-**Our method achieved 76.4 MAE and 327.4 MSE on [NWPU-Crowd counting benchmark](https://www.crowdbenchmark.com/nwpucrowd.html), which is currently the largest crowd counting benckmark**
+**Our method achieved 76.4 MAE and 327.4 MSE on [NWPU-Crowd counting benchmark](https://www.crowdbenchmark.com/index.html), which is currently the largest crowd counting benckmark**
 
