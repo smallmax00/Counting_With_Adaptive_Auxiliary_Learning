@@ -2,6 +2,7 @@
 
 
 ## Data Prepare
+Prepare you own data, please refer to [C3-FrameWork](https://github.com/gjy3035/Awesome-Crowd-Counting) for detailed instructions.
 
 ## SHA
 
