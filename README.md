@@ -6,7 +6,7 @@ Prepare you own data, please refer to [C-3-FrameWork](https://github.com/gjy3035
 
 ## SHA
 
-- Download [checkpoint_best.pth](https://drive.google.com/file/d/1HaRTgBhW1Evr5NBOCduaDY2h2Xdkb4l5/view?usp=sharing) and put it into ./checkpoints/  
+- Download [checkpoint_best.pth](https://drive.google.com/file/d/1HaRTgBhW1Evr5NBOCduaDY2h2Xdkb4l5/view?usp=sharing) and put it into ./checkpoints/GCN_paper_SHAB/  
 
 ### prediction
 ```
