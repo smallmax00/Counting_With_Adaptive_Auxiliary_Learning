@@ -13,7 +13,26 @@ Prepare you own data, please refer to [C-3-FrameWork](https://github.com/gjy3035
 python test_SHA.py  
 ```
 
+## JHU
+- Download [checkpoint_best.pth]() and put it into ./checkpoints/GCN_paper_JHU/  
+
+### prediction
+```
+python test_JHU.py
+```
+
+
+## QNRF
+- Download [checkpoint_best.pth]() and put it into ./checkpoints/GCN_paper_QNRF/  
+
+### prediction
+```
+python test_QNRF.py
+```
+
+
+
 ## NWPU-Crowd
 
-**Our method achieved 76.4 MAE and 327.4 MSE on [NWPU-Crowd counting benchmark](https://www.crowdbenchmark.com/index.html), which is currently the largest crowd counting benckmark**
+**Our method achieved 76.4 MAE and 327.4 MSE on [NWPU-Crowd counting benchmark](https://www.crowdbenchmark.com/index.html)**
 
