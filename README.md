@@ -14,7 +14,7 @@ python test_SHA.py
 ```
 
 ## JHU
-- Download [checkpoint_best.pth]() and put it into ./checkpoints/GCN_paper_JHU/  
+- Download [checkpoint_best.pth](https://drive.google.com/file/d/1qn5vWfWJFk97EYflbFBhb61KxMw6R6aw/view?usp=sharing) and put it into ./checkpoints/GCN_paper_JHU/  
 
 ### prediction
 ```
@@ -23,7 +23,7 @@ python test_JHU.py
 
 
 ## QNRF
-- Download [checkpoint_best.pth]() and put it into ./checkpoints/GCN_paper_QNRF/  
+- Download [checkpoint_best.pth](https://drive.google.com/file/d/1Lkxwr4MEcug2IxnzZWuwKQOvMbEZ0SdI/view?usp=sharing) and put it into ./checkpoints/GCN_paper_QNRF/  
 
 ### prediction
 ```
