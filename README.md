@@ -36,3 +36,15 @@ python test_QNRF.py
 
 **Our method achieved 76.4 MAE and 327.4 MSE on [NWPU-Crowd counting benchmark](https://www.crowdbenchmark.com/index.html)**
 
+
+# Citation
+If you find our work useful or our work gives you any insights, please cite:
+```
+@InProceedings{Meng_202２_AdaptiveCounting,
+    author    = {Meng, Yanda and Bridge, Joshua and Wei, Meng and Zhao, Yitian and Qiao, Yihong and Yang, Xiaoyun and Huang, Xiaowei and Zheng, Yalin},
+    title     = {Counting with Adaptive Auxiliary Learning},
+    booktitle = {arXiv:2203.04061},
+    year      = {2022},
+}
+
+```
