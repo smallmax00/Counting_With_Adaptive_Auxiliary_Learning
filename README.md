@@ -40,7 +40,7 @@ python test_QNRF.py
 # Citation
 If you find our work useful or our work gives you any insights, please cite:
 ```
-@InProceedings{Meng_202２_AdaptiveCounting,
+@InProceedings{Meng_2022_Adaptive_Counting,
     author    = {Meng, Yanda and Bridge, Joshua and Wei, Meng and Zhao, Yitian and Qiao, Yihong and Yang, Xiaoyun and Huang, Xiaowei and Zheng, Yalin},
     title     = {Counting with Adaptive Auxiliary Learning},
     booktitle = {arXiv:2203.04061},
