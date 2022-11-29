@@ -41,7 +41,7 @@ python test_QNRF.py
 If you find our work useful or our work gives you any insights, please cite:
 ```
 @article{Meng_2022_Adaptive_Counting,
-    author    = {Meng, Yanda and Bridge, Joshua and Joddrell, Martha and Zhao, Yitian and Qiao, Yihong and Yang, Xiaoyun and Huang, Xiaowei and Zheng, Yalin},
+    author    = {Meng, Yanda and Bridge, Joshua and Zhao, Yitian and Joddrell, Martha and Qiao, Yihong and Yang, Xiaoyun and Huang, Xiaowei and Zheng, Yalin},
     title     = {Transportation Object Counting with Graph-Based Adaptive Auxiliary Learning},
     journal = {IEEE Transactions on Intelligent Transportation System},
     year      = {2022},
